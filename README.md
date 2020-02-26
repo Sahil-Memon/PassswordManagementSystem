@@ -1,2 +1,0 @@
-# Sabridge
-Student Admin Bridge
