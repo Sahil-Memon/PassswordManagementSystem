@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "446828882663",
+    "firebase_url": "https://sabridge-d8c7b.firebaseio.com",
+    "project_id": "sabridge-d8c7b",
+    "storage_bucket": "sabridge-d8c7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446828882663:android:915328d2f4445de5371042",
+        "android_client_info": {
+          "package_name": "com.example.sabridge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446828882663-ing0efha7s33hkbei41d92sl1s3fvggv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sabridge",
+            "certificate_hash": "594e3c8a916f6ca4fcddcfa5b100fa77105aa489"
+          }
+        },
+        {
+          "client_id": "446828882663-qo1ss8osl7s7b6cs4u066mi8gsl5llqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqvx_ZXZ538qJX-Stf-wvBKA8Q09laA9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446828882663-qo1ss8osl7s7b6cs4u066mi8gsl5llqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
